@@ -91,3 +91,4 @@ ENV/
 cifar-10*
 *.p
 
+.floydexpt
